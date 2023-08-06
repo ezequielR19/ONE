@@ -1,0 +1,30 @@
+.container{
+    padding: 3rem;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    width: 450px;
+    border: 1px solid;
+    color: white;
+    background-color:antiquewhite;
+    background-image:url(https://www.shutterstock.com/shutterstock/photos/604575887/display_1500/stock-vector-global-internet-network-security-and-digital-cyber-security-background-concept-604575887.jpg);
+}
+
+label{
+    margin: 1rem;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+#password{
+    margin: 1rem;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#button{
+    margin: 1rem;
+    font-size: 15px;
+}
